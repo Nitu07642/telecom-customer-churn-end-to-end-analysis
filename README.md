@@ -35,21 +35,6 @@ In the telecom sector, a customer isn't just a row in a SQL database; they repre
 </p>
 
 ---
-
-### 💻 Featured SQL Queries (Click to Expand)
-
-<details>
-<summary><b>🔍 Click to View: Data Cleaning & Null Treatment</b></summary>
-
-```sql
--- Checking and handling blank spaces in TotalCharges before type conversion
-SELECT customerID, TotalCharges 
-FROM customer_churn_db 
-WHERE TotalCharges = ' ' OR TotalCharges IS NULL;
-
--- Safe logic used to audit baseline records
-SELECT COUNT(*) FROM customer_churn_db WHERE customerID IS NOT NULL;
-
 ## 🗄️ Backend Deep-Dive: Data Cleaning & Exploratory Data Analysis (EDA) using SQL
 
 Before creating beautiful charts, a great analyst ensures the foundations are unbreakable. I used **MySQL** to load, clean, and run comprehensive Exploratory Data Analysis on **7,043 customer records**.
