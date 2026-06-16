@@ -31,7 +31,7 @@ In the telecom sector, a customer isn't just a row in a SQL database; they repre
 *Below is the complete dynamic dashboard built in Power BI to monitor and analyze churn drivers at a glance:*
 
 <p align="center">
- <img src="Aapki_Dashboard_File_Ka_Poora_Naam.png" alt="Power BI Customer Churn Dashboard Overview" width="100%">
+ <img src="Aapki_Dashboard_File_Ka_Poora_Naam.png.png" alt="Power BI Customer Churn Dashboard Overview" width="100%">
 </p>
 
 ---
