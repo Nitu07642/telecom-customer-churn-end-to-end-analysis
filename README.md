@@ -90,4 +90,4 @@ Through this end-to-end analytical journey, I unearned **three heavy churn drive
 I thrive at the intersection of complex coding and real-world business strategy. If you are looking for a dedicated Data Analyst who can translate messy backend rows into powerful executive-ready insights, let's talk!
 
 *   **LinkedIn Profile:** [Nitu Kumari - Connect on LinkedIn](https://www.linkedin.com/in/nitu-kumari-data)
-*   **Project Portfolio:** Check out my other repositories for more deep-dives!
+
