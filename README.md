@@ -5,7 +5,7 @@ Cracking the code behind customer loyalty. An end-to-end Telecom Churn analysis 
 
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="Telecom_customer_churn_Banner.png" alt="Telecom Churn Project Banner" width="100%">
+<img src="Telecom_customer_churn_Banner.png.png" alt="Telecom Churn Project Banner" width="100%">
 </p>
 
 <p align="center">
